@@ -1,5 +1,4 @@
-# netmanagement.online
-# NetManagement.Online
+# netmanagement.online API
 
 Production-ready API + React front-end with:
 - FastAPI
