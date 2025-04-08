@@ -172,3 +172,37 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Env files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# Coverage reports
+.coverage
+*.cover
+
+# Django specific
+*.sqlite3
+db.sqlite3
+
+# Other
+*.bak
+*.swp
